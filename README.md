@@ -1,2 +1,3 @@
-# mini-health-tracker-edpb
-Automated issue comment bot repository
+# Mini Health Tracker Edpb
+
+Automated issue comment bot repository.
